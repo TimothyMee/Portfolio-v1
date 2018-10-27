@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from litmusthemes.com/themes/octagon/index-gradients.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Oct 2018 21:06:04 GMT -->
 <head>
     <title>Octagon - Portfolio Template</title>
     <meta charset="utf-8">
@@ -36,14 +34,14 @@
             <span></span>
             <span></span>
         </div>
-        <h3>Octagon</h3>
+        <h3></h3>
     </div>
     <!--HEADER START-->
     <header id="header">
         <div class="container-fluid">
             <div class="navbar">
-                <a href="#" id="logo" title="Octagon">
-                    <img src="/images/logo.png" alt="Octagon">
+                <a href="/" id="logo">
+                    <h3></h3>
                 </a>
                 <div class="navigation-row">
                     <nav id="navigation">
@@ -365,50 +363,77 @@
                         <div class="gallery-section">
                             <div class="gallery-list owl-carousel">
                                 <div class="item animate" data-animate="fadeInUp">
-                                    <a href="/project/timothy" class="gallery-box">
-                                        <figure class="gallery-img"><img src="images/gallery-01.jpg" alt=""></figure>
+                                    <a href="/project/RMS" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/RMS/image1.jpg" alt=""></figure>
                                         <div class="gallery-overlay">
-                                            <h4>ACD fitness point</h4>
+                                            <h4>Result Management System (RMS)</h4>
                                         </div><!--/.gallery-overlay-->
                                     </a><!--/.gallery-box-->
                                 </div><!--/.item-->
                                 <div class="item animate" data-animate="fadeInUp">
-                                    <a href="project-details.html" class="gallery-box">
-                                        <figure class="gallery-img"><img src="images/gallery-02.jpg" alt=""></figure>
+                                    <a href="/project/ETH10K" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/ETH10K/image1.jpg" alt=""></figure>
                                         <div class="gallery-overlay">
-                                            <h4>ELIZAH photography</h4>
+                                            <h4>ETH10K</h4>
                                         </div><!--/.gallery-overlay-->
                                     </a><!--/.gallery-box-->
                                 </div><!--/.item-->
                                 <div class="item animate" data-animate="fadeInUp">
-                                    <a href="project-details.html" class="gallery-box">
-                                        <figure class="gallery-img"><img src="images/gallery-03.jpg" alt=""></figure>
+                                    <a href="/project/Ecommerce" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/Finverse/image1.jpg" alt=""></figure>
                                         <div class="gallery-overlay">
-                                            <h4>abissy builders</h4>
+                                            <h4>Finverse</h4>
                                         </div><!--/.gallery-overlay-->
                                     </a><!--/.gallery-box-->
                                 </div><!--/.item-->
                                 <div class="item animate" data-animate="fadeInUp">
-                                    <a href="project-details.html" class="gallery-box">
-                                        <figure class="gallery-img"><img src="images/gallery-01.jpg" alt=""></figure>
+                                    <a href="/project/Give" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/Give/image1.jpg" alt=""></figure>
                                         <div class="gallery-overlay">
-                                            <h4>ACD fitness point</h4>
+                                            <h4>Give</h4>
                                         </div><!--/.gallery-overlay-->
                                     </a><!--/.gallery-box-->
                                 </div><!--/.item-->
                                 <div class="item animate" data-animate="fadeInUp">
-                                    <a href="project-details.html" class="gallery-box">
-                                        <figure class="gallery-img"><img src="images/gallery-02.jpg" alt=""></figure>
+                                    <a href="/project/HesgesSynergy" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/Hesges/image1.jpg" alt=""></figure>
                                         <div class="gallery-overlay">
-                                            <h4>ELIZAH photography</h4>
+                                            <h4>Hesges Synergy</h4>
                                         </div><!--/.gallery-overlay-->
                                     </a><!--/.gallery-box-->
                                 </div><!--/.item-->
                                 <div class="item animate" data-animate="fadeInUp">
-                                    <a href="project-details.html" class="gallery-box">
-                                        <figure class="gallery-img"><img src="images/gallery-03.jpg" alt=""></figure>
+                                    <a href="/project/OGSADC" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/OGSADC/image1.jpg" alt=""></figure>
                                         <div class="gallery-overlay">
-                                            <h4>abissy builders</h4>
+                                            <h4>OGSADC</h4>
+                                        </div><!--/.gallery-overlay-->
+                                    </a><!--/.gallery-box-->
+                                </div><!--/.item-->
+
+                                <div class="item animate" data-animate="fadeInUp">
+                                    <a href="/project/HotelWebsite" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/TheHome/image1.jpg" alt=""></figure>
+                                        <div class="gallery-overlay">
+                                            <h4>The Home Hotel</h4>
+                                        </div><!--/.gallery-overlay-->
+                                    </a><!--/.gallery-box-->
+                                </div><!--/.item-->
+
+                                <div class="item animate" data-animate="fadeInUp">
+                                    <a href="/project/SteemSports" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/SteemSports/image1.jpg" alt=""></figure>
+                                        <div class="gallery-overlay">
+                                            <h4>Steem Sports</h4>
+                                        </div><!--/.gallery-overlay-->
+                                    </a><!--/.gallery-box-->
+                                </div><!--/.item-->
+
+                                <div class="item animate" data-animate="fadeInUp">
+                                    <a href="/project/HotelAdmin" class="gallery-box">
+                                        <figure class="gallery-img"><img src="/images/TheHomeApp/image1.jpg" alt=""></figure>
+                                        <div class="gallery-overlay">
+                                            <h4>Hotel Manager</h4>
                                         </div><!--/.gallery-overlay-->
                                     </a><!--/.gallery-box-->
                                 </div><!--/.item-->
@@ -518,6 +543,4 @@
 <script src="/js/general-scripts.js"></script>
 <!-- Main Script -->
 </body>
-
-<!-- Mirrored from litmusthemes.com/themes/octagon/index-gradients.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Oct 2018 21:08:24 GMT -->
 </html>
