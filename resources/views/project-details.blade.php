@@ -35,14 +35,14 @@
             <span></span>
             <span></span>
         </div>
-        <h3>Octagon</h3>
+        <h3></h3>
     </div>
     <!--HEADER START-->
     <header id="header">
         <div class="container-fluid">
             <div class="navbar">
                 <a href="#" id="logo" title="Octagon">
-                    <img src="/images/logo.png" alt="Octagon">
+                    {{--<img src="/images/logo.png" alt="Octagon">--}}
                 </a>
                 <div class="navigation-row">
                     <nav id="navigation">
