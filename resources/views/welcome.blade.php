@@ -15,7 +15,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="/css/font-awesome.css">
     <!-- Font Awesome CSS -->
-    <link rel="stylesheet" type="text/css" href="/css/fullpage.min.css">
+    {{--<link rel="stylesheet" type="text/css" href="/css/fullpage.min.css">--}}
     <!-- fullpage CSS -->
     <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css">
     <!-- slider CSS -->
