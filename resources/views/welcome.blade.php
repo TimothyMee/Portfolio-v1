@@ -242,7 +242,7 @@
                                     <div class="service-box">
                                         <span class="service-icon"><i class="fa fa-laptop" aria-hidden="true"></i></span>
                                         <h3>Software Development</h3>
-                                        <p>I develop fully functional software solution not only for the web but also stand alone with c#, java, laravel.</p>
+                                        <p>I develop fully functional software solutions not only for the web but also stand alone with c#, java, laravel.</p>
                                     </div>
                                 </div><!--/.item-->
                             </div><!--/.services-list-->
